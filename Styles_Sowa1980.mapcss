@@ -1,0 +1,52 @@
+
+meta
+{
+  title: "Styles_Sowa1980";
+  author: "Панкратов Александр Владимирович";
+  version: "1.00_2020-04-07";
+  description: "Styles_Sowa1980";
+}
+
+/*line=*/
+
+area[center_line_of_geometry=yes] /*(линия выравнивания геометрии)*/
+{
+    width: 10;
+    color: blue;
+}
+area[geometry_alignment_line=yes] /*(линия выравнивания геометрии)*/
+{
+    width: 10;
+    color: blue;
+}
+area[signboard_name] /*(название вывесок)*/
+{
+    text: signboard_name;
+	font-size: 12;
+    text-color: black;
+	text-halo-color: White;
+	text-position: center;
+	text-halo-radius: 2;
+	text-halo-opacity: 3;
+	text-opacity: 1.0;
+	font-family: mappaint.fontsize;
+}
+node[amenity=letter_box] /*(Иконка)*/
+{
+    icon-image: letter_box.png;
+}
+node[post:housenumber] /*(номер ящика)*/
+{
+    text: "post:housenumber";
+    text-color: black;
+	font-size: 12;
+	text-halo-radius: 2;
+	text-halo-opacity: 3;
+	text-opacity: 1.0;
+	text-halo-radius: 2;
+	font-family: mappaint.fontsize;
+}   
+node[entrance=shop] /*(Иконка)*/
+{
+    icon-image: entrance_shop.png;
+}
