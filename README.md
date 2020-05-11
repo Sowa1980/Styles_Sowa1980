@@ -1,4 +1,4 @@
-# Styles_Sowa1980 ![icon]()
+# Styles_Sowa1980 ![icon](https://github.com/Sowa1980/Styles_Sowa1980/blob/master/Sowa.png)
 Стиль для [JOSM](https://josm.openstreetmap.de/), служит для Визуалия моих заготовек тегов в програме и отображение прочих оюъектов.
 ### Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box)
 ### Языки локализации: 
