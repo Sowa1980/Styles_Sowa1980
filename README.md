@@ -12,5 +12,5 @@
 ### Благодарность:-)
 - OSM сообществу в целом, за то что не мешают творить, а так же критику и пожелания! :-)
 #### Пожелания и замечания можно оставить:
-- в чате [телеграмм](https://t.me/OSM_BelRusUkr) 
-- на странице OSM у меня в дненике (https://www.openstreetmap.org/user/Sowa1980)
+- в чате [OSM телеграмм](https://t.me/OSM_BelRusUkr) 
+- на странице OSM у меня в [дненике](https://www.openstreetmap.org/user/Sowa1980)
