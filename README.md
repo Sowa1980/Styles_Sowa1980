@@ -1,5 +1,5 @@
 # Styles_Sowa1980 
-Стиль для [JOSM](https://josm.openstreetmap.de/), служит для Визуалия моих заготовек и отображение прочих объектов в программе.
+Стиль для [JOSM](https://josm.openstreetmap.de/), служит для Визуалия моих заготовок и отображение прочих объектов в программе.
 ![icon](https://github.com/Sowa1980/Styles_Sowa1980/blob/master/Sowa.png)
 ### Языки локализации: 
 Русский.
